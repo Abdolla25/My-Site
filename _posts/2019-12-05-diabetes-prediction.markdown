@@ -32,6 +32,8 @@ We have imputed the missing data values using MICE package, MICE package use an 
 
 ![Pre-process](../assets/images/1.png)
 
+The imputed values exported to a new file using the function "write.csv" to use it directrly in the method.
+
 #### Applying Decision Tree Method
 
 ![decision-tree](../assets/images/2.png)
@@ -52,3 +54,30 @@ We have imputed the missing data values as the above, using MICE package.
 #### Applying Naive Bayes Classifier Method
 
 ![naive-bayes](../assets/images/4.png)
+
+## Results
+
+The results from the two methods was very close as the following:
+
+### Decision Tree Results
+
+| Parameter    | Value             |
+|:-------------|:------------------|
+| Accuracy     | 82.998%           |
+| Specificity  | 89.671%           |
+| Sensitivity  | 78.523%           |
+
+![decision-tree-results](../assets/images/5.png)
+
+### Naive Bayes Classifier Results
+
+| Parameter    | Value             |
+|:-------------|:------------------|
+| Accuracy     | 75.138%           |
+| Sensitivity  | 79.410%           |
+
+![naive-bayes-results](../assets/images/6.png)
+
+## Conclusion
+
+The decision Tree is more accurate and better than NB Classifier
