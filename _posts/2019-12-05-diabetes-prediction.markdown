@@ -18,7 +18,19 @@ For many years diabetes was a mystery, no one had an absolute answer for the rea
 
 There are diabetes warning signs and symptoms that both women and men have in common, based on recent dataset of diabetes taken from different sources, we are going to predict the diabetes for any data.
 
-## Pre-process Stage
+## Methods
+
+In this project we used the following methods:
+
+### Decision Tree
+
+Decision tree is the most powerful and popular tool for classification and prediction. A Decision tree is a flowchart like tree structure, where each internal node denotes a test on an attribute, each branch represents an outcome of the test, and each leaf node (terminal node) holds a class label.
+
+#### Pre-processing data
+
+![Pre-process](../assets/images/1.png)
+
+### Naive Bayes Classifier
 
 
 
