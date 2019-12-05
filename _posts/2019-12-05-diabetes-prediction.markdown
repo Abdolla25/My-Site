@@ -5,17 +5,16 @@ date: 2019-12-05 16:00
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- components
-- extra
+- Diabetes
+- Machine Learning
 category: blog
 author: abdullaz
-description: Markdown summary with different options
+description: Diabetes is a metabolic disorder that occurs when your blood sugar is too high it also called "hyperglycemia".
 ---
 
-## Summary:
+## Introduction:
 
-You can pick as item to see how to apply in markdown.
+For many years diabetes was a mystery, no one had an absolute answer for the reasons or any early signs, we are looking to discover a new method to predict the diabetes and learn how to process datasets using different methods of machine learning.
 
 #### Especial Elements
 - [Evidence](#evidence)
