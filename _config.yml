@@ -34,24 +34,25 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: abdolla25
+twitter: abdolla25
 # google: mygoogle
-# instagram: myinstagram
+instagram: abdollaz25
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: abdolla25
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: abdolla25
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
-# reddit: username
-medium: medium
+reddit: abdolla25
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: abdollaz25@gmail.com
+
 
 authors:
     johndoe:
