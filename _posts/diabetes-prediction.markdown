@@ -1,7 +1,7 @@
 ---
-title: "Markdown Extra Components"
+title: "Diabetes Prediction Using Machine Learning"
 layout: post
-date: 2016-02-24 22:48
+date: 2019-12-05 16:00
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -9,7 +9,7 @@ tag:
 - components
 - extra
 category: blog
-author: jamesfoster
+author: abdullaz
 description: Markdown summary with different options
 ---
 
