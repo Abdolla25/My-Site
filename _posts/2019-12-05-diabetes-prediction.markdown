@@ -8,7 +8,7 @@ tag:
 - Diabetes
 - Machine Learning
 category: blog
-author: abdullaz, ahmednabil, ahmedos
+author: abdullaz
 description: Diabetes is a metabolic disorder that occurs when your blood sugar is too high it also called "hyperglycemia".
 ---
 
