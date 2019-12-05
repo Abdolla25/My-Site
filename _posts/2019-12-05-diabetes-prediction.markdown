@@ -78,6 +78,15 @@ The results from the two methods was very close as the following:
 
 ![naive-bayes-results](../assets/images/6.png)
 
+![naive-bayes-results-CM](../assets/images/7.png)
+
+## Data Source
+
+Our resource of datasets are:
+
+*   !["National Institute of Diabetes and Digestive and Kidney Diseases".](https://www.kaggle.com/alhassanabdelglil/predicting-the-diabetes)
+*   ![Local Hospital at Frankfurt, Germany.](https://www.kaggle.com/johndasilva/diabetes)
+
 ## Conclusion
 
-The decision Tree is more accurate and better than NB Classifier
+The decision Tree is more accurate and better than NB Classifier.
