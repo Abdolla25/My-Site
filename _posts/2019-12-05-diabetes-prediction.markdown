@@ -8,7 +8,7 @@ tag:
 - Diabetes
 - Machine Learning
 category: blog
-author: abdullaz
+author: abdullaz, ahmednabil, ahmedos
 description: Diabetes is a metabolic disorder that occurs when your blood sugar is too high it also called "hyperglycemia".
 ---
 
@@ -84,8 +84,8 @@ The results from the two methods was very close as the following:
 
 Our resource of datasets are:
 
-*   !["National Institute of Diabetes and Digestive and Kidney Diseases".](https://www.kaggle.com/alhassanabdelglil/predicting-the-diabetes)
-*   ![Local Hospital at Frankfurt, Germany.](https://www.kaggle.com/johndasilva/diabetes)
+*   "National Institute of Diabetes and Digestive and Kidney Diseases".
+*   Local Hospital at Frankfurt, Germany.
 
 ## Conclusion
 
