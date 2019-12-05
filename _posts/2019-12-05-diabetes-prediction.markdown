@@ -12,9 +12,15 @@ author: abdullaz
 description: Diabetes is a metabolic disorder that occurs when your blood sugar is too high it also called "hyperglycemia".
 ---
 
-## Introduction:
+## Introduction
 
 For many years diabetes was a mystery, no one had an absolute answer for the reasons or any early signs, we are looking to discover a new method to predict the diabetes and learn how to process datasets using different methods of machine learning.
+
+There are diabetes warning signs and symptoms that both women and men have in common, based on recent dataset of diabetes taken from different sources, we are going to predict the diabetes for any data.
+
+## Pre-process Stage
+
+
 
 #### Especial Elements
 - [Evidence](#evidence)
